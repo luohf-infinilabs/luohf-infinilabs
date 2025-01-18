@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Hardy
 
-I'm Luo Haifeng, a passionate product developer specializing in big data search solutions.
+I'm Hardy Luo, a passionate product developer specializing in big data search solutions.
 
 ### 👀 I’m interested in ...
 

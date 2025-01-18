@@ -32,7 +32,7 @@ I'm Hardy Luo, a passionate product developer specializing in big data search so
 
 ### ⚡ Fun fact:
 
-*   I spent 8 years working in information security before transitioning to big data search, making me a big believer in the power of SecDevOps!
+*   I spent 8 years working in information security before transitioning to data search, making me a big believer in the power of SecDevOps!
 
 <!---
 luohf-infinilabs/luohf-infinilabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
